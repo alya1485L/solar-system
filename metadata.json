@@ -1,0 +1,6 @@
+{
+  "name": "Solar System Explorer",
+  "description": "Jelajahi berbagai sistem tata surya, pelajari detail planet, bulan, dan bintang, serta rakit roket kustommu sendiri untuk terbang menjelajah galaksi secara langsung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
